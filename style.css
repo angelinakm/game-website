@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(200, 190, 190);
+}
+
+h1 {
+  font-size: 30px;
+}
+h2 {
+  font-size: 18px;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: serif;
+  color: rgb(48, 48, 48);
+}
+
+.fieldset_button {
+  text-align: center;
+  padding-left: 25px;
+  padding-top: 25x;
+  padding-bottom: 25px;
+  padding-right: 25px;
+}
+
+fieldset {
+  text-align: center;
+  padding-left: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-right: 50px;
+  border: 1.5px dotted;
+}
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  font-family: serif;
+}
+input[type="button"] {
+  font-family: serif;
+}
+footer {
+  position: sticky;
+}
